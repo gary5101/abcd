@@ -31,7 +31,7 @@ int main(void)
    }
    bfs(1);
    for(int i=1;i<=n;i++){
-       cout<<dist[i]<<" ";
+       cout<<"Result"+dist[i]<<" ";
    }
    cout<<endl;
 }
